@@ -1,7 +1,8 @@
 import { MdClose } from 'react-icons/md';
 import css from './Task.module.css';
 import { useDispatch } from 'react-redux';
-import { deleteTask, toggleCompleted } from 'redux/action';
+import { deleteTask, toggleCompleted } from 'redux/taskSlice';
+// import { deleteTask, toggleCompleted } from 'redux/action';
 
 export const Task = ({ task }) => {
   // Отримуємо посилання на функцію відправки екшенів
