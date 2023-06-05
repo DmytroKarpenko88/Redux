@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Redux2/static/css/main.aaaf48ca.css",
-    "main.js": "/Redux2/static/js/main.2fdbfefe.js",
-    "index.html": "/Redux2/index.html",
-    "main.aaaf48ca.css.map": "/Redux2/static/css/main.aaaf48ca.css.map",
-    "main.2fdbfefe.js.map": "/Redux2/static/js/main.2fdbfefe.js.map"
+    "main.css": "/Redux/static/css/main.aaaf48ca.css",
+    "main.js": "/Redux/static/js/main.2fdbfefe.js",
+    "index.html": "/Redux/index.html",
+    "main.aaaf48ca.css.map": "/Redux/static/css/main.aaaf48ca.css.map",
+    "main.2fdbfefe.js.map": "/Redux/static/js/main.2fdbfefe.js.map"
   },
   "entrypoints": [
     "static/css/main.aaaf48ca.css",
